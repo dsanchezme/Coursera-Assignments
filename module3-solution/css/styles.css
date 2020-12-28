@@ -85,3 +85,8 @@ p {
 #top-heading {
     font-weight: bold;
 }
+
+#back-to-top {
+    text-align: right;
+    margin-right: 0px;
+}
